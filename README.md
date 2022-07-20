@@ -12,7 +12,7 @@
 - <b>Python</b>
   - [Room maping with a car robot](https://github.com/ejovo13/Projet-Robot)
   - [Numerical solution of the wave equation (explicit/implicit Euler and Runge-Kutta method)](https://github.com/Rudiio/Projet-Musique)
-  - [Data analysis with panda dataframe] (https://github.com/Shimaadakunn/Billbord-analyze)
+  - [Data analysis with panda dataframe](https://github.com/Shimaadakunn/Billbord-analyze)
   
 <h2> 🤳 Connect with me:</h2>
 
