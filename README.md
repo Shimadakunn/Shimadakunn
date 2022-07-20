@@ -4,7 +4,7 @@
 
 - <b>Blockchain</b>
   - [Resilience of a Cellular consensus in a Strogatz topology in presence of Byzantine adversaries](https://github.com/Shimaadakunn/Cellular_consensus)
-  - [Quick modeling of the Iota blockchain] (https://github.com/Shimaadakunn/IOTA-Tangle)
+  - [Quick modeling of the Iota blockchain](https://github.com/Shimaadakunn/IOTA-Tangle)
   
 - <b>C</b>
   - [Playing with trees](https://github.com/Shimaadakunn/Algorithmie-Main-3)
