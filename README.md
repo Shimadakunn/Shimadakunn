@@ -2,7 +2,10 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-
+- <b>Trading</b>
+  
+  - [Trading bot that outperforms the market](https://github.com/Shimadakunn/autogrid-trading-bot)
+  
 - <b>Blockchain</b>
 
   - [Resilience of a Cellular consensus in a Strogatz topology in presence of Byzantine adversaries](https://github.com/Shimaadakunn/Cellular_consensus)
