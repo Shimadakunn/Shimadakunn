@@ -6,12 +6,7 @@
 
   - [Resilience of a Cellular consensus in a Strogatz topology in presence of Byzantine adversaries](https://github.com/Shimaadakunn/Cellular_consensus)
   - [Big transaction tracker and ploting money flow of crypto](https://github.com/Shimadakunn/TxTracker)
-  - [Quick modeling of the Iota blockchain](https://github.com/Shimaadakunn/IOTA-Tangle)
-
-- <b>Trading</b>
-  
-  - [Trading bot](https://github.com/Shimadakunn/autogrid-trading-bot)
-  
+  - [Quick modeling of the Iota blockchain](https://github.com/Shimaadakunn/IOTA-Tangle)  
  
 - <b>Engineering</b>
   
@@ -19,9 +14,13 @@
   - [Room maping with a car robot](https://github.com/ejovo13/Projet-Robot)
   - [Numerical solution of the wave equation (explicit/implicit Euler and Runge-Kutta method)](https://github.com/Shimadakunn/Guitare-string-disturbance)
   
-- <b>Websites</b>
-  - [I'm Behind My Head](https://shimadakunn.github.io/imbh/)
+- <b>Trading</b>
   
+  - [Trading bot](https://github.com/Shimadakunn/autogrid-trading-bot)
+
+<h2> 🌐 Websites Portfolio </h2>
+  
+- [I'm Behind My Head](https://shimadakunn.github.io/imbh/)
   
   
 <h2> 🤳 Connect with me:</h2>
