@@ -4,7 +4,7 @@
 
 - <b>Trading</b>
   
-  - [Trading bot that outperforms the market](https://github.com/Shimadakunn/autogrid-trading-bot)
+  - [Trading bot](https://github.com/Shimadakunn/autogrid-trading-bot)
   
 - <b>Blockchain</b>
 
