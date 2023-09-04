@@ -19,6 +19,7 @@
   - [Trading bot](https://github.com/Shimadakunn/autogrid-trading-bot)
 
 <h2> 🌐 Websites Portfolio </h2>
+
   - [Photo Portfolio](https://shimadakunn.github.io/dl/)
   - [Clothing Website](https://shimadakunn.github.io/imbh/)
   
