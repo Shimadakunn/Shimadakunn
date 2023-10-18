@@ -3,7 +3,9 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Blockchain</b>
-  - [**Decentralized online voting using Etherum Virtual Machine and Smart Contract**](https://github.com/Shimadakunn/Etherum-Voting)
+  - [Networking app that ensuring veracity of encounters using blockchain](https://github.com/Shimadakunn/TAG-HEC-HACKATON)
+  - [Luggage Tracking application using Etherum Virtual Machine and Smart Contract](https://github.com/Shimadakunn/LugTrack)
+  - [Decentralized online voting using Etherum Virtual Machine and Smart Contract](https://github.com/Shimadakunn/Etherum-Voting)
   - [Resilience of a Cellular consensus in a Strogatz topology in presence of Byzantine adversaries](https://github.com/Shimaadakunn/Cellular_consensus)
   - [Big transaction tracker and ploting money flow of crypto](https://github.com/Shimadakunn/TxTracker)
   - [Quick modeling of the Iota blockchain](https://github.com/Shimaadakunn/IOTA-Tangle)  
