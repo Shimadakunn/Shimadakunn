@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Blockchain</b>
-  - [Networking app that ensuring veracity of encounters using blockchain (2nd place HEC Hackathon)](https://github.com/Shimadakunn/TAG-HEC-Hackathon)
+  - [Networking app that ensures veracity of your encounters using blockchain (2nd place HEC Hackathon)](https://github.com/Shimadakunn/TAG-HEC-Hackathon)
   - [Luggage Tracking application using EVM (1st place Dauphine Hackathon)](https://github.com/Shimadakunn/LugTrack)
   - [Decentralized online voting using Etherum Virtual Machine and Smart Contract](https://github.com/Shimadakunn/Etherum-Voting)
   - [Resilience of a Cellular consensus in a Strogatz topology in presence of Byzantine adversaries](https://github.com/Shimaadakunn/Cellular_consensus)
