@@ -1,5 +1,9 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/leo-combaret/">Leo</a>!<br/>Student in Financial Engineering Master 1 at ESILV</h1>
 
+<div style="text-align:center;">
+  <img src="https://github.com/Shimadakunn/Shimadakunn/assets/89693356/d8f0d189-44b9-4105-ba76-0849aec5e847" alt="Your Image Description" width="100%">
+</div>
+
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Blockchain</b>
@@ -26,8 +30,14 @@
   - [Clothing Website](https://shimadakunn.github.io/imbh/)
   
   
-<h2> 🤳 Connect with me:</h2>
+<h2> 💻 Tech Stack</h2>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimadakunn&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
 
 [<img align="left" alt="LeoCombaret | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/89693356/231500813-f1a7aab3-5e0b-4214-84c7-9b47f29460af.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/leo-combaret/
+
+[![](https://visitcount.itsvg.in/api?id=Shimadakunn&icon=0&color=0)](https://visitcount.itsvg.in) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
