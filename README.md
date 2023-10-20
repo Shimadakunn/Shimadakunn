@@ -1,8 +1,10 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/leo-combaret/">Leo</a>!<br/>Student in Financial Engineering Master 1 at ESILV</h1>
-
 <div style="text-align:center;">
   <img src="https://github.com/Shimadakunn/Shimadakunn/assets/89693356/d8f0d189-44b9-4105-ba76-0849aec5e847" alt="Your Image Description" width="100%">
 </div>
+
+---
+
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/leo-combaret/">Leo</a>!<br/>Student in Financial Engineering Master 1 at ESILV</h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
