@@ -25,8 +25,8 @@
 
 <h2> 🌐 Websites Portfolio:</h2>
 
-  - [Photo Portfolio](https://shimadakunn.github.io/dl/)
-  - [Clothing Website](https://shimadakunn.github.io/imbh/)
+  - [Photo Portfolio](https://dounialimam.vercel.app/)
+  - [Clothing Website](https://imbehindmyhead.com/)
   
   
 <h2> 💻 Tech Stack:</h2>
