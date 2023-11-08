@@ -15,7 +15,7 @@
   - [Quick modeling of the Iota blockchain](https://github.com/Shimaadakunn/IOTA-Tangle)  
  
 - <b>Engineering</b>
-  - [Chrome extension to determine if a text was written by human or not](https://github.com/Shimadakunn/isGPT)
+  - [Chrome extension to determine if a text was written by AI or not](https://github.com/Shimadakunn/isGPT)
   - [Speech to Text and Gesture to Speech Application for deaf people](https://github.com/Shimadakunn/Hand-Gesture-Recognition)
   - [Room maping with a car robot](https://github.com/ejovo13/Projet-Robot)
   - [Numerical solution of the wave equation (explicit/implicit Euler and Runge-Kutta method)](https://github.com/Shimadakunn/Guitare-string-disturbance)
