@@ -3,7 +3,7 @@
 <h2>💫 About Me:</h2>
 👨‍🎓Student in Fintech Major at ESILV<br>👨‍💻FullStack Freelance Developper<br>🥇Active Web 3 Hackaton Participant
 
-<h2>🏆 Won Prizes: </h2>
+<h2>🏆 Won Prizes in Hackathons: </h2>
 
 | What | How | When | Where |
 | --- | --- | --- | --- |
