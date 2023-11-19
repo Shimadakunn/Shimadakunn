@@ -8,9 +8,9 @@
 | What | How | When | Where |
 | --- | --- | --- | --- |
 | 🏆7k Prizes @ ETHGlobal Istanbul | [Sofilend](https://ethglobal.com/showcase/sofilend-fajeu) | Nov' 2023 | [ETHGlobal Istanbul](https://ethglobal.com/) |
-| 🥇1st @ KRYPTOSPHERE Hackathon X 1inch X Near | [Anodex](https://github.com/Shimadakunn/Anodex) | Nov' 2023 | [Kryptosphere](https://twitter.com/KRYPTOSPHERE) |
-| 🥈2nd @ HEC Paris Hackathon X Tezos | [Tag](https://github.com/Shimadakunn/TAG-HEC-Hackathon) | Oct' 2023 | [HEC Paris](https://www.hec.edu/fr) |
-| 🥇1st @ Paris Dauphine Hackathon X 1inch | [LugTrack](https://github.com/Shimadakunn/LugTrack) | Sept' 2023 | [Paris Dauphine](https://dauphine.psl.eu/) |
+| 🥇1st @ KRYPTOSPHERE X 1inch X Near | [Anodex](https://github.com/Shimadakunn/Anodex) | Nov' 2023 | [Kryptosphere](https://twitter.com/KRYPTOSPHERE) |
+| 🥈2nd @ HEC Paris X Tezos | [Tag](https://github.com/Shimadakunn/TAG-HEC-Hackathon) | Oct' 2023 | [HEC Paris](https://www.hec.edu/fr) |
+| 🥇1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/Shimadakunn/LugTrack) | Sept' 2023 | [Paris Dauphine](https://dauphine.psl.eu/) |
 
 <h2>👨‍💻 My Projects:</h2>
 
