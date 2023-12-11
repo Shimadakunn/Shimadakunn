@@ -15,9 +15,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Blockchain</b>
-  - [Anonymous crypto transfer of any token (1st place KRYPTOSPHERE Hackathon)](https://github.com/Shimadakunn/Anodex)
-  - [Networking app that ensures veracity of your encounters using blockchain (2nd place HEC Hackathon)](https://github.com/Shimadakunn/TAG-HEC-Hackathon)
-  - [Luggage Tracking application using EVM (1st place Dauphine Hackathon)](https://github.com/Shimadakunn/LugTrack)
+  - [Decentralized App interacing with smart contract](https://first-dapp-self.vercel.app/)
   - [Decentralized online voting using Etherum Virtual Machine and Smart Contract](https://github.com/Shimadakunn/Etherum-Voting)
   - [Resilience of a Cellular consensus in a Strogatz topology in presence of Byzantine adversaries](https://github.com/Shimaadakunn/Cellular_consensus)
   - [Big transaction tracker and ploting money flow of crypto](https://github.com/Shimadakunn/TxTracker)
