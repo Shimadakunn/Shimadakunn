@@ -12,6 +12,12 @@
 | 🥈2nd @ HEC Paris X Tezos | [Tag](https://github.com/Shimadakunn/TAG-HEC-Hackathon) | Oct' 2023 | [HEC Paris](https://www.hec.edu/fr) |
 | 🥇1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/Shimadakunn/LugTrack) | Sept' 2023 | [Paris Dauphine](https://dauphine.psl.eu/) |
 
+<h2> 🌐 Websites Portfolio:</h2>
+
+  - [Clothing Website](https://imbehindmyhead.com/)
+  - [Decentralized App](https://first-dapp-self.vercel.app/)
+  - [Photo Portfolio](https://dounialimam.vercel.app/)
+
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Blockchain</b>
@@ -30,11 +36,6 @@
 - <b>Trading</b>
   
   - [Trading bot](https://github.com/Shimadakunn/autogrid-trading-bot)
-
-<h2> 🌐 Websites Portfolio:</h2>
-
-  - [Clothing Website](https://imbehindmyhead.com/)
-  - [Photo Portfolio](https://dounialimam.vercel.app/)
   
   
 <h2> 💻 Tech Stack:</h2>
