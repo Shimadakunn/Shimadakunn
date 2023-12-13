@@ -49,3 +49,5 @@
 | --- | --- |
 | Linkedin | [Leo Combaret](https://www.linkedin.com/in/leo-combaret/) |
 | Mail | lcombaret@hotmail.co.jp |
+
+![](https://komarev.com/ghpvc/?username=Shimadakunn&label=VISITORS)
