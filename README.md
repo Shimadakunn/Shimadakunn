@@ -14,9 +14,9 @@
 
 <h2> 🌐 Websites Portfolio:</h2>
 
-  - [Clothing Website](https://imbehindmyhead.com/)
-  - [Decentralized App](https://first-dapp-self.vercel.app/)
-  - [Photo Portfolio](https://dounialimam.vercel.app/)
+  - [👘Clothing Website](https://imbehindmyhead.com/)
+  - [🎇Decentralized App](https://first-dapp-self.vercel.app/)
+  - [📸Photo Portfolio](https://dounialimam.vercel.app/)
 
 <h2>👨‍💻 My Projects:</h2>
 
