@@ -46,7 +46,7 @@
 
 <h3>🔗 Contact me:</h3>
 
-| How | What |
+| How | Where |
 | --- | --- |
 | Linkedin | [Leo Combaret](https://www.linkedin.com/in/leo-combaret/) |
 | Mail | lcombaret@hotmail.co.jp |
