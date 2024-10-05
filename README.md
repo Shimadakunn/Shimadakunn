@@ -7,6 +7,7 @@
 
 | What | How | When | Where |
 | --- | --- | --- | --- |
+| 🏆17k$ Prizes @ ETHGlobal Online 20204 | [Omnigas](https://ethglobal.com/showcase/omnigas-cqg1m) | Sept' 2024 | [ETHGlobal Online](https://ethglobal.com/) |
 | 🏆8k5$ Prizes @ ETHGlobal Istanbul | [Sofilend](https://ethglobal.com/showcase/sofilend-fajeu) | Nov' 2023 | [ETHGlobal Istanbul](https://ethglobal.com/) |
 | 🥇1st @ KRYPTOSPHERE X 1inch X Near | [Anodex](https://github.com/Shimadakunn/Anodex) / [Press Article](https://www.emlv.fr/ise-promo-2025-remporte-trois-prix-lors-du-hackathon-de-linstitut-des-crypto-actifs/) | Nov' 2023 | [Kryptosphere](https://twitter.com/KRYPTOSPHERE) |
 | 🥈2nd @ HEC Paris X Tezos | [Tag](https://github.com/Shimadakunn/TAG-HEC-Hackathon) | Oct' 2023 | [HEC Paris](https://www.hec.edu/fr) |
