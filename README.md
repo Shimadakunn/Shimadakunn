@@ -15,7 +15,7 @@
 
 <h2> 🧑‍💻 Experiences:</h2>
 
-  - Blockchain Developper at [TradeTogether](https://tradetogether.com/)
+  - Blockchain Developper at [TradeTogether](https://tradetogether.com/) in Singapore
 
 <h2> 🌐 Websites Portfolio:</h2>
 
