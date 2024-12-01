@@ -23,10 +23,11 @@
 | --- | --- | --- | --- |
 | 👘 Clothing Website |[imbh.com](https://imbehindmyhead.com/) | E-Commerce | --- |
 | 📸 Photo Portfolio | [shashin.com](https://dounialimam.vercel.app/) | Website | --- |
+| Web3 Landing Page  | [kuma.com](https://kuma-landing-2.vercel.app/) | Website | --- |
 | Decentralized App | [dapp.com](https://first-dapp-self.vercel.app/) | Blockchain Website | --- |
 | --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
+| Voting App on Ethereum | --- | Blockchain Website | [code](https://github.com/Shimadakunn/Etherum-Voting) |
+| Research on Cellular Consensus | --- | Reseach Paper | [code](https://github.com/Shimaadakunn/Cellular_consensus) |
 | --- | --- | --- | --- |
 
 <h2> 🌐 Websites Portfolio:</h2>
