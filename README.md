@@ -1,5 +1,7 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/leo-combaret/">Leo</a>!<br/>Student in Financial Engineering Master 2 at <a href="https://www.esilv.fr/">ESILV</a></h1>
 
+![](https://komarev.com/ghpvc/?username=Shimadakunn&label=VISITORS)
+
 <h2>💫 About Me:</h2>
 👨‍🎓Student in Fintech Major at ESILV<br>👨‍💻FullStack Freelance Developper<br>🥇Active Web 3 Hackaton Participant
 
@@ -17,54 +19,28 @@
 
 | What | Where | When | Place |
 | --- | --- | --- | --- |
-| Blockchain Developper | [TradeTogether](https://tradetogether.com/) | Apr' - Aug' 2024 | Singapore |
+| 👾 Blockchain Developper | [TradeTogether](https://tradetogether.com/) | Apr' - Aug' 2024 | Singapore |
 
 <h2>💻 My Porfolio: </h2>
 
 | What | Website | Category | Code |
 | --- | --- | --- | --- |
+| 🔬 Research on Cellular Consensus | --- | Research Paper | [code](https://github.com/Shimaadakunn/Cellular_consensus) |
 | 👘 Clothing Website |[imbh.com](https://imbehindmyhead.com/) | E-Commerce | --- |
 | 📸 Photo Portfolio | [shashin.com](https://dounialimam.vercel.app/) | Website | --- |
 | 🐻‍❄️ Web3 Landing Page  | [kuma.com](https://kuma-landing-2.vercel.app/) | Website | --- |
 | 🐻 ERC-4337 Smart Wallet | [app.kuma.com](https://kuma-beta.vercel.app/) | Blockchain App | --- |
 | ✌ Gesture Controlled Wallet | [krilin.com](https://krilin.vercel.app/) | Blockchain App | --- |
 | 📰 Decentralized NewsPaper | [suipaper.com](https://suipaper.vercel.app/) | Blockchain App | --- |
-| 🔬 Research on Cellular Consensus | --- | Research Paper | [code](https://github.com/Shimaadakunn/Cellular_consensus) |
-| 🗳️ Voting App on Ethereum | --- | Blockchain App | [code](https://github.com/Shimadakunn/Etherum-Voting) |
 | 🔗 Decentralized App | [dapp.com](https://first-dapp-self.vercel.app/) | Blockchain App | --- |
+| 🗳️ Voting App on Ethereum | --- | Blockchain App | [code](https://github.com/Shimadakunn/Etherum-Voting) |
+| 👌 Gesture to Speech App | --- | Machine Learning | [code](https://github.com/Shimadakunn/Hand-Gesture-Recognition) |
 | 💶 Crypto Money Flow Tracker | --- | Data Analyze / Viz | [code](https://github.com/Shimadakunn/TxTracker) |
 | 📐 Iota Blockchain Modelization | --- | Data Analyze / Viz | [code](https://github.com/Shimaadakunn/IOTA-Tangle) |
 | 🤖 AI Chrome Extension | --- | Extension | [code](https://github.com/Shimadakunn/isGPT) |
-| 👌 Gesture to Speech App | --- | Machine Learning | [code](https://github.com/Shimadakunn/Hand-Gesture-Recognition) |
 | 🚙 Room Mapping Robot | --- | Robotic | [code](https://github.com/ejovo13/Projet-Robot) |
 | 🎸 Wave Modelization | --- | Numerical Equation | [code](https://github.com/Shimadakunn/Guitare-string-disturbance) |
-| 📈 Trading Bot | --- | Automatic Bot | [code](https://github.com/Shimadakunn/autogrid-trading-bot) |
-
-<h2> 🌐 Websites Portfolio:</h2>
-
-  - [👘Clothing Website](https://imbehindmyhead.com/)
-  - [🎇Decentralized App](https://first-dapp-self.vercel.app/)
-  - [📸Photo Portfolio](https://dounialimam.vercel.app/)
-
-<h2>👨‍💻 My Projects:</h2>
-
-- <b>Blockchain</b>
-  - [Decentralized App interacing with smart contract](https://first-dapp-self.vercel.app/)
-  - [Decentralized online voting using Etherum Virtual Machine and Smart Contract](https://github.com/Shimadakunn/Etherum-Voting)
-  - [Resilience of a Cellular consensus in a Strogatz topology in presence of Byzantine adversaries](https://github.com/Shimaadakunn/Cellular_consensus)
-  - [Big transaction tracker and ploting money flow of crypto](https://github.com/Shimadakunn/TxTracker)
-  - [Quick modeling of the Iota blockchain](https://github.com/Shimaadakunn/IOTA-Tangle)  
- 
-- <b>Engineering</b>
-  - [Chrome extension to determine if a text was written by AI or not](https://github.com/Shimadakunn/isGPT)
-  - [Speech to Text and Gesture to Speech Application for deaf people](https://github.com/Shimadakunn/Hand-Gesture-Recognition)
-  - [Room maping with a car robot](https://github.com/ejovo13/Projet-Robot)
-  - [Numerical solution of the wave equation (explicit/implicit Euler and Runge-Kutta method)](https://github.com/Shimadakunn/Guitare-string-disturbance)
-  
-- <b>Trading</b>
-  
-  - [Trading bot](https://github.com/Shimadakunn/autogrid-trading-bot)
-  
+| 📈 Trading Bot | --- | Automatic Bot | [code](https://github.com/Shimadakunn/autogrid-trading-bot) |  
   
 <h2> 💻 Tech Stack:</h2>
 
@@ -72,11 +48,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimadakunn&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<h3>🔗 Contact me:</h3>
+<h3>📮 Contact me:</h3>
 
 | How | Where |
 | --- | --- |
 | Linkedin | [Leo Combaret](https://www.linkedin.com/in/leo-combaret/) |
-| Mail | lcombaret@hotmail.co.jp |
-
-![](https://komarev.com/ghpvc/?username=Shimadakunn&label=VISITORS)
+| [Mail](lcombaret@hotmail.co.jp) |  |
