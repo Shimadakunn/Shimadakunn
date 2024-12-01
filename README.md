@@ -52,5 +52,6 @@
 
 | How | Where |
 | --- | --- |
-| Linkedin | [Leo Combaret](https://www.linkedin.com/in/leo-combaret/) |
-| [Mail](lcombaret@hotmail.co.jp) |  |
+| 🧑‍💼 Linkedin | [Leo Combaret](https://www.linkedin.com/in/leo-combaret/) |
+| ✉️ Mail | lcombaret@hotmail.co.jp |
+| 🛩️ Telegram | t.me/shimadakunn |
