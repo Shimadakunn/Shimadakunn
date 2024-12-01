@@ -24,12 +24,18 @@
 | 👘 Clothing Website |[imbh.com](https://imbehindmyhead.com/) | E-Commerce | --- |
 | 📸 Photo Portfolio | [shashin.com](https://dounialimam.vercel.app/) | Website | --- |
 | Web3 Landing Page  | [kuma.com](https://kuma-landing-2.vercel.app/) | Website | --- |
-| Decentralized App | [dapp.com](https://first-dapp-self.vercel.app/) | Blockchain Website | --- |
+| ERC-4337 Smart Wallet | [app.kuma.com](https://kuma-beta.vercel.app/) | Blockchain Website | --- |
+| Research on Cellular Consensus | --- | Research Paper | [code](https://github.com/Shimaadakunn/Cellular_consensus) |
 | --- | --- | --- | --- |
 | Voting App on Ethereum | --- | Blockchain Website | [code](https://github.com/Shimadakunn/Etherum-Voting) |
-| Research on Cellular Consensus | --- | Research Paper | [code](https://github.com/Shimaadakunn/Cellular_consensus) |
+| Decentralized App | [dapp.com](https://first-dapp-self.vercel.app/) | Blockchain Website | --- |
 | Crypto Money Flow Tracker | --- | Data Analyze / Viz | [code](https://github.com/Shimadakunn/TxTracker) |
 | Iota Blockchain Modelization | --- | Data Analyze / Viz | [code](https://github.com/Shimaadakunn/IOTA-Tangle) |
+| AI Chrome Extension | --- | Extension | [code](https://github.com/Shimadakunn/isGPT) |
+| Gesture to Speech App | --- | Machine Learning | [code](https://github.com/Shimadakunn/Hand-Gesture-Recognition) |
+| Room Mapping Robot | --- | Robotic | [code](https://github.com/ejovo13/Projet-Robot) |
+| Wave Modelization | --- | Numerical Equation | [code](https://github.com/Shimadakunn/Guitare-string-disturbance) |
+| Trading Bot | --- | Automatic Bot | [code](https://github.com/Shimadakunn/autogrid-trading-bot) |
 
 <h2> 🌐 Websites Portfolio:</h2>
 
