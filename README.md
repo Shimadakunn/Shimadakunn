@@ -7,7 +7,7 @@
 
 <h2>🏆 Won Prizes in Hackathons: </h2>
 
-| What | How | When | Where |
+| Prize | Project | Date | Event |
 | --- | --- | --- | --- |
 | 🏆17k$ Prizes @ ETHGlobal Online 2024 | [Omnigas](https://ethglobal.com/showcase/omnigas-cqg1m) | Spet' 2024 | [ETHGlobal Online 2024](https://ethglobal.com/) |
 | 🏆8k5$ Prizes @ ETHGlobal Istanbul | [Sofilend](https://ethglobal.com/showcase/sofilend-fajeu) | Nov' 2023 | [ETHGlobal Istanbul](https://ethglobal.com/) |
@@ -17,13 +17,13 @@
 
 <h2> 🧑‍💻 Experiences:</h2>
 
-| What | Where | When | Place |
+| Job Title | Company | Date | Place |
 | --- | --- | --- | --- |
 | 👾 Blockchain Developper | [TradeTogether](https://tradetogether.com/) | Apr' - Aug' 2024 | Singapore |
 
 <h2>💻 My Porfolio: </h2>
 
-| What | Website | Category | Code |
+| Name | Website | Category | Code |
 | --- | --- | --- | --- |
 | 🔬 Research on Cellular Consensus | --- | Research Paper | [code](https://github.com/Shimaadakunn/Cellular_consensus) |
 | 👘 Clothing Website |[imbh.com](https://imbehindmyhead.com/) | E-Commerce | --- |
@@ -50,7 +50,7 @@
 
 <h3>📮 Contact me:</h3>
 
-| How | Where |
+| Platform | Link |
 | --- | --- |
 | 🧑‍💼 Linkedin | [Leo Combaret](https://www.linkedin.com/in/leo-combaret/) |
 | ✉️ Mail | lcombaret@hotmail.co.jp |
