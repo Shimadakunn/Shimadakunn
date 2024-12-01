@@ -27,8 +27,9 @@
 | Decentralized App | [dapp.com](https://first-dapp-self.vercel.app/) | Blockchain Website | --- |
 | --- | --- | --- | --- |
 | Voting App on Ethereum | --- | Blockchain Website | [code](https://github.com/Shimadakunn/Etherum-Voting) |
-| Research on Cellular Consensus | --- | Reseach Paper | [code](https://github.com/Shimaadakunn/Cellular_consensus) |
-| --- | --- | --- | --- |
+| Research on Cellular Consensus | --- | Research Paper | [code](https://github.com/Shimaadakunn/Cellular_consensus) |
+| Crypto Money Flow Tracker | --- | Data Analyze / Viz | [code](https://github.com/Shimadakunn/TxTracker) |
+| Iota Blockchain Modelization | --- | Data Analyze / Viz | [code](https://github.com/Shimaadakunn/IOTA-Tangle) |
 
 <h2> 🌐 Websites Portfolio:</h2>
 
