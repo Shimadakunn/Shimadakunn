@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/leo-combaret/">Leo</a>!<br/>Student in Financial Engineering Master 1 at ESILV</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/leo-combaret/">Leo</a>!<br/>Student in Financial Engineering Master 2 at <a href="https://www.esilv.fr/">ESILV</a></h1>
 
 <h2>💫 About Me:</h2>
 👨‍🎓Student in Fintech Major at ESILV<br>👨‍💻FullStack Freelance Developper<br>🥇Active Web 3 Hackaton Participant
