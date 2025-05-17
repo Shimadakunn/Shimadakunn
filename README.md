@@ -1,9 +1,20 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/leo-combaret/">Leo</a>!<br/>Student in Financial Engineering Master 2 at <a href="https://www.esilv.fr/">ESILV</a></h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/leo-combaret/">Leo</a>!<br/>And I am a Software Engineer.</h1>
 
 ![](https://komarev.com/ghpvc/?username=Shimadakunn&label=VISITORS)
 
-<h2>💫 About Me:</h2>
-👨‍🎓Student in Fintech Major at ESILV<br>👨‍💻FullStack Freelance Developper<br>🥇Active Web 3 Hackaton Participant
+<h2> 🧑‍🏫 Education:</h2>
+
+| Job Title | Company | Date |
+| --- | --- | --- |
+| 💸 Engineering Master Degree | [Leonard de Vinci Graduate School of Engineering](https://www.esilv.fr/en/) | 2022 - 2025 |
+| 👾 Applied Mathematics and Computer Science Degree | [Sorbonne University UPMC ](https://www.sorbonne-universite.fr/sorbonne-universite-campus-pierre-et-marie-curie) | 2019 - 2022 |
+
+<h2> 🧑‍💻 Experiences:</h2>
+
+| Job Title | Company | Date | Place |
+| --- | --- | --- | --- |
+| 💸 Software Engineer in Finance Data | [Kiln](https://kiln.fi/) | Jan' - ' 2025 | Paris |
+| 👾 Blockchain Developper | [TradeTogether](https://tradetogether.com/) | Apr' - Aug' 2024 | Singapore |
 
 <h2>🏆 Won Prizes in Hackathons: </h2>
 
@@ -14,13 +25,6 @@
 | 🥇1st @ KRYPTOSPHERE X 1inch X Near | [Anodex](https://github.com/Shimadakunn/Anodex) / [Press Article](https://www.emlv.fr/ise-promo-2025-remporte-trois-prix-lors-du-hackathon-de-linstitut-des-crypto-actifs/) | Nov' 2023 | [Kryptosphere](https://twitter.com/KRYPTOSPHERE) |
 | 🥈2nd @ HEC Paris X Tezos | [Tag](https://github.com/Shimadakunn/TAG-HEC-Hackathon) | Oct' 2023 | [HEC Paris](https://www.hec.edu/fr) |
 | 🥇1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/Shimadakunn/LugTrack) | Sept' 2023 | [Paris Dauphine](https://dauphine.psl.eu/) |
-
-<h2> 🧑‍💻 Experiences:</h2>
-
-| Job Title | Company | Date | Place |
-| --- | --- | --- | --- |
-| 💸 Blockchain Finance Data Engineer | [Kiln](https://kiln.fi/) | Jan' - ' 2025 | Paris |
-| 👾 Blockchain Developper | [TradeTogether](https://tradetogether.com/) | Apr' - Aug' 2024 | Singapore |
 
 <h2>💻 My Porfolio: </h2>
 
