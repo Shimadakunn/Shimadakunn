@@ -1,6 +1,8 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/leo-combaret/">Leo</a>!<br/>And I am a Software Engineer.</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/leo-combaret/">Leo</a>!<br/>I am a Software Engineer.</h1>
 
 ![](https://komarev.com/ghpvc/?username=Shimadakunn&label=VISITORS)
+
+[linkedin](https://www.linkedin.com/in/leo-combaret/) [CV](https://leo-combaret.tiiny.site) [mail](mail.to/lcombaret@hotmail.co.jp) [telegram](t.me/shimadakunn)
 
 <h2> 🧑‍🏫 Education:</h2>
 
@@ -13,7 +15,7 @@
 
 | Job Title | Company | Date | Place |
 | --- | --- | --- | --- |
-| 💸 Software Engineer in Finance Data | [Kiln](https://kiln.fi/) | Jan' - Jul' 2025 | Paris |
+| 💸 Software Engineer | [Kiln](https://kiln.fi/) | Jan' - Jul' 2025 | Paris |
 | 👾 Blockchain Developper | [TradeTogether](https://tradetogether.com/) | Apr' - Aug' 2024 | Singapore |
 
 <h2>🏆 Won Prizes in Hackathons: </h2>
