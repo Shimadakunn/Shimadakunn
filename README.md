@@ -2,7 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Shimadakunn&label=VISITORS)
 
-[linkedin](https://www.linkedin.com/in/leo-combaret/) [CV](https://leo-combaret.tiiny.site) [mail](mail.to/lcombaret@hotmail.co.jp) [telegram](t.me/shimadakunn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-combaret/)
+[![CV](https://img.shields.io/badge/CV-View-ff69b4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://leo-combaret.tiiny.site)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcombaret@hotmail.co.jp)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shimadakunn)
+
 
 <h2> 🧑‍🏫 Education:</h2>
 
