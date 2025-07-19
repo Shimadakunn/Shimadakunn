@@ -20,7 +20,7 @@
 | Job Title | Company | Date | Place |
 | --- | --- | --- | --- |
 | 💸 Software Engineer | [Kiln](https://kiln.fi/) | Jan' - Jul' 2025 | Paris |
-| 👾 Blockchain Developper | [TradeTogether](https://tradetogether.com/) | Apr' - Aug' 2024 | Singapore |
+| 👾 Blockchain Engineer | [TradeTogether](https://tradetogether.com/) | Apr' - Aug' 2024 | Singapore |
 
 <h2>🏆 Won Prizes in Hackathons: </h2>
 
