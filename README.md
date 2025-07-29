@@ -1,28 +1,26 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/leo-combaret/">Leo</a>!<br/>I am a Software Engineer.</h1>
-
 ![](https://komarev.com/ghpvc/?username=Shimadakunn&label=VISITORS)
+<h1>Hi, I'm [Leo Shimada](https://shimada.vercel.app/)! </br>I am a Software Engineer.</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-combaret/)
-[![CV](https://img.shields.io/badge/CV-View-ff69b4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://leo-combaret.tiiny.site)
+[![CV](https://img.shields.io/badge/CV-View-ff69b4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://shimada.vercel.app/cv/pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcombaret@hotmail.co.jp)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shimadakunn)
 
-
-<h2> 🧑‍🏫 Education:</h2>
+<h2> 🧑‍🏫 Education</h2>
 
 | Job Title | Company | Date |
 | --- | --- | --- |
 | 💸 Engineering Master Degree | [Leonard de Vinci Graduate School of Engineering](https://www.esilv.fr/en/) | 2022 - 2025 |
 | 👾 Applied Mathematics and Computer Science Degree | [Sorbonne University UPMC ](https://www.sorbonne-universite.fr/sorbonne-universite-campus-pierre-et-marie-curie) | 2019 - 2022 |
 
-<h2> 🧑‍💻 Experiences:</h2>
+<h2> 🧑‍💻 Experiences</h2>
 
 | Job Title | Company | Date | Place |
 | --- | --- | --- | --- |
-| 💸 Software Engineer | [Kiln](https://kiln.fi/) | Jan' - Jul' 2025 | Paris |
+| 💸 Finance Engineer | [Kiln](https://kiln.fi/) | Jan' - Jul' 2025 | Paris |
 | 👾 Blockchain Engineer | [TradeTogether](https://tradetogether.com/) | Apr' - Aug' 2024 | Singapore |
 
-<h2>🏆 Won Prizes in Hackathons: </h2>
+<h2>🏆 Won Prizes in Hackathons</h2>
 
 | Prize | Project | Date | Event |
 | --- | --- | --- | --- |
@@ -32,7 +30,7 @@
 | 🥈2nd @ HEC Paris X Tezos | [Tag](https://github.com/Shimadakunn/TAG-HEC-Hackathon) | Oct' 2023 | [HEC Paris](https://www.hec.edu/fr) |
 | 🥇1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/Shimadakunn/LugTrack) | Sept' 2023 | [Paris Dauphine](https://dauphine.psl.eu/) |
 
-<h2>💻 My Porfolio: </h2>
+<h2>💻 My Projects</h2>
 
 | Name | Website | Category | Code |
 | --- | --- | --- | --- |
