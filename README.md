@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Shimadakunn&label=VISITORS)
-<h1>Hi, I'm [Leo Shimada](https://shimada.vercel.app/)! </br>I am a Software Engineer.</h1>
+<h1>Hi, I'm <a href="https://shimada.vercel.app/">Leo Shimada</a>! </br>I am a Software Engineer.</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-combaret/)
 [![CV](https://img.shields.io/badge/CV-View-ff69b4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://shimada.vercel.app/cv/pdf)
