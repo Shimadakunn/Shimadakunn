@@ -17,7 +17,7 @@
 
 | Job Title | Company | Date | Place |
 | --- | --- | --- | --- |
-| 💸 Finance Engineer | [Kiln](https://kiln.fi/) | Jan' - Jul' 2025 | Paris |
+| 💸 Software Engineer | [Kiln](https://kiln.fi/) | Jan' - Jul' 2025 | Paris |
 | 👾 Blockchain Engineer | [TradeTogether](https://tradetogether.com/) | Apr' - Aug' 2024 | Singapore |
 
 <h2>🏆 Won Prizes in Hackathons</h2>
@@ -35,7 +35,7 @@
 | Name | Website | Category | Code |
 | --- | --- | --- | --- |
 | 🔬 Research on Cellular Consensus | --- | Research Paper | [code](https://github.com/Shimaadakunn/Cellular_consensus) |
-| 👘 Clothing Website |[imbh.com](https://imbehindmyhead.com/) | E-Commerce | --- |
+| 👘 Clothing Website |[imbh.com](https://imbh.vercel.app/) | E-Commerce | --- |
 | 📸 Photo Portfolio | [shashin.com](https://dounialimam.vercel.app/) | Website | --- |
 | 🐻‍❄️ Web3 Landing Page  | [kuma.com](https://kuma-landing-2.vercel.app/) | Website | --- |
 | 🐻 ERC-4337 Smart Wallet | [app.kuma.com](https://kuma-beta.vercel.app/) | Blockchain App | --- |
