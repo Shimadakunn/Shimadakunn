@@ -36,7 +36,7 @@
 | --- | --- | --- | --- |
 | 🔬 Research on Cellular Consensus | --- | Research Paper | [code](https://github.com/Shimaadakunn/Cellular_consensus) |
 | 👘 Clothing Website |[imbh.com](https://imbh.vercel.app/) | E-Commerce | --- |
-| 📸 Photo Portfolio | [shashin.com](https://dounialimam.vercel.app/) | Website | --- |
+| 📸 Photo Portfolio | [dollashashin.com](https://www.dollashashin.com/) | Website | --- |
 | 🐻‍❄️ Web3 Landing Page  | [kuma.com](https://kuma-landing-2.vercel.app/) | Website | --- |
 | 🐻 ERC-4337 Smart Wallet | [app.kuma.com](https://kuma-beta.vercel.app/) | Blockchain App | --- |
 | ✌ Gesture Controlled Wallet | [krilin.com](https://krilin.vercel.app/) | Blockchain App | --- |
