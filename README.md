@@ -1,10 +1,10 @@
-![](https://komarev.com/ghpvc/?username=Shimadakunn&label=VISITORS)
-<h1>Hi, I'm <a href="https://shimada.vercel.app/">Leo Shimada</a>! </br>I am a Software Engineer.</h1>
+![1753111107109](https://github.com/user-attachments/assets/f644309b-d6cd-4d19-a27c-f5738a89d141)
+<div style:{{background: white}}>Hello</div>
+Hi!
+I am Software Engineer at Mistral AI 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-combaret/)
-[![CV](https://img.shields.io/badge/CV-View-ff69b4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://shimada.vercel.app/cv/pdf)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcombaret@hotmail.co.jp)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shimadakunn)
+![lechat-gif](https://github.com/user-attachments/assets/e8341250-caa7-44df-92bd-d84eeec112b4)
+
 
 <h2> 🧑‍💻 Experiences</h2>
 
@@ -68,3 +68,5 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=Shimadakunn&label=VISITORS)
