@@ -6,19 +6,23 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcombaret@hotmail.co.jp)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shimadakunn)
 
-<h2> 🧑‍🏫 Education</h2>
-
-| Job Title | Company | Date |
-| --- | --- | --- |
-| 💸 Engineering Master Degree | [Leonard de Vinci Graduate School of Engineering](https://www.esilv.fr/en/) | 2022 - 2025 |
-| 👾 Applied Mathematics and Computer Science Degree | [Sorbonne University UPMC ](https://www.sorbonne-universite.fr/sorbonne-universite-campus-pierre-et-marie-curie) | 2019 - 2022 |
-
 <h2> 🧑‍💻 Experiences</h2>
 
 | Job Title | Company | Date | Place |
 | --- | --- | --- | --- |
-| 💸 Software Engineer | [Kiln](https://kiln.fi/) | Jan' - Jul' 2025 | Paris |
+| 🐱 Software Engineer | [Mistral AI](https://mistral.ai/) | Oct' 2025 - Now | Paris |
+| 💸 Software Engineer | [Kiln](https://kiln.fi/) | Jan' - Aug' 2025 | Paris |
 | 👾 Blockchain Engineer | [TradeTogether](https://tradetogether.com/) | Apr' - Aug' 2024 | Singapore |
+| 🖥️ Freelance | [Malt](https://www.malt.fr/) | Sept' 2023 - Apr' 2024 | Paris |
+
+<h2> 🧑‍🏫 Education</h2>
+
+| Job Title | Company | Date |
+| --- | --- | --- |
+| 🤖 Engineering Master Degree | [Leonard de Vinci Graduate School of Engineering](https://www.esilv.fr/en/) | 2022 - 2025 |
+| 📐 Applied Mathematics and Computer Science Degree | [Sorbonne University UPMC ](https://www.sorbonne-universite.fr/sorbonne-universite-campus-pierre-et-marie-curie) | 2019 - 2022 |
+
+
 
 <h2>🏆 Won Prizes in Hackathons</h2>
 
