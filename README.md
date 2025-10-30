@@ -1,7 +1,6 @@
 ![Untitled design (1)](https://github.com/user-attachments/assets/34a85477-148e-40a5-a182-c4ef3c13e7ac)
 
-Hi!
-I am Software Engineer at Mistral AI 
+# Hi! I am Software Engineer at Mistral AI
 
 <h2> 🧑‍💻 Experiences</h2>
 
