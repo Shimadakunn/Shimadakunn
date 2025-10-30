@@ -1,10 +1,7 @@
-![1753111107109](https://github.com/user-attachments/assets/f644309b-d6cd-4d19-a27c-f5738a89d141)
-<div style:{{background: white}}>Hello</div>
+![Untitled design (1)](https://github.com/user-attachments/assets/34a85477-148e-40a5-a182-c4ef3c13e7ac)
+
 Hi!
 I am Software Engineer at Mistral AI 
-
-![lechat-gif](https://github.com/user-attachments/assets/e8341250-caa7-44df-92bd-d84eeec112b4)
-
 
 <h2> 🧑‍💻 Experiences</h2>
 
